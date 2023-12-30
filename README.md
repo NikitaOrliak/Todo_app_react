@@ -1,9 +1,18 @@
-# React TypeScript Starter Pack
+# Todo App
 
-To use this template click `Use this template`
+This is a Todo App created by me.
 
-### Available Scripts
+Technologies that were used:
+- HTML
+- SCSS
+- JS
+- TS
+- React
 
-`Deploy` - available to deploy your application to gh-pages
+[DEMO LINK](https://NikitaOrliak.github.io/Todo_app_react/)
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+Additional launch instructions:
+- git clone https://github.com/NikitaOrliak/Todo_app_react.git
+- npm install
+- npm start
+
