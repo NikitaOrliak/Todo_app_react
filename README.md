@@ -1,7 +1,5 @@
 # Todo App
 
-This is a Todo App created by me.
-
 Technologies that were used:
 - HTML
 - SCSS
